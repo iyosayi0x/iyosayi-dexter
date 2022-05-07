@@ -7,7 +7,7 @@ I'm iyosayi a fullstack developer and freelancer, currenlty studying computer sc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyosayi-dexter&layout=compact)
 
-* I'm currently working on some projects to add to my portfolio💪🏾.
+* I'm currently working on some projects to fill up my portfolio💪🏾.
 
 * Planning on collaborating on open source projects in my skill set👨🏾‍🔬.
 
@@ -15,4 +15,4 @@ I'm iyosayi a fullstack developer and freelancer, currenlty studying computer sc
 
 ## Connect with me
 
-I share updates on and i'm active on  [Twitter](https://twitter.com/iyosayi18) , [Linkedln](https://www.linkedin.com/in/iyosayi-onaiwu-6a8739212/) and [instagram](https://instagram.com/iyosayi18)
+I share updates and i'm active on  [Twitter](https://twitter.com/iyosayi18) , [Linkedln](https://www.linkedin.com/in/iyosayi-onaiwu-6a8739212/) and [instagram](https://instagram.com/iyosayi18)
