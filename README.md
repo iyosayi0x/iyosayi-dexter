@@ -1,8 +1,18 @@
-# Hi there i'm Iyosayi👋
+# Hi there i'm iyosayi
 
-Full stack web developer , worked with React , Vue js , Django and Node js.i'm currently learning solidity , Web3 and react Native.
+![Cover Image](./assets/coverImage.svg)
+I'm iyosayi a fullstack developer and freelancer, currenlty studying computer science. I'm enthusiactic about learning and building software thats going to change the world someday :), i also write articles on blockchain dev, frontend dev and backend dev on [My blog](https://Iyostack.hasnode.dev)✌.
 
+![Iyosayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyosayi-dexter&count_private=true&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyosayi-dexter&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyosayi-dexter&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyosayi-dexter)](https://github.com/anuraghazra/github-readme-stats)
+* I'm currently working on some projects to add to my portfolio💪🏾.
+
+* Planning on collaborating on open source projects in my skill set👨🏾‍🔬.
+
+* I'm also learning and improving my skills on backend, frontend and blokchain dev by building some projects. Some are listed in my repositories👨🏾‍💻.
+
+## Connect with me
+
+I share updates on and i'm active on  [Twitter](https://twitter.com/iyosayi18) , [Linkedln](https://www.linkedin.com/in/iyosayi-onaiwu-6a8739212/) and [instagram](https://instagram.com/iyosayi18)
